@@ -9,8 +9,7 @@ control and make sure that the companies must follow the issued rules.
 kind of product that can cause allergies to strictly mention allergens on
 the product label.
 
-- Source Declaration - It means mentioning the origin or source of the prod
-uct.
+- Source Declaration - It means mentioning the origin or source of the product.
 # 2 Research Question
 This section aims to understand what Indian law currently requires for allergen
 declaration on packaged food products.
