@@ -74,6 +74,4 @@
 
 ## Dead Ends
 
-- Initially assumed that only **maximum limits** of ingredients are specified in regulations.  
-- Discovered that **minimum limits also matter**, especially for milk and dairy products under the Food Safety and Standards (Food Products Standards and Food Additives) Regulations, 2011.  
-- Observed that many other products only specify limits as **"not more than..."**, leading to confusion during research.
+-I expected that only the maximum limitation of ingredients are mentioned in regulation, but found out that the minimum limitation also matters specially for milk   and dairy products from ”Food Safety and Standards(Food Products Standards and Food Additives) Regulation, 2011”. Because other products only mention ’Not more     than...’.
