@@ -197,9 +197,9 @@ Claim :- ALLER.FSSAI.C.06
 
 ## 6. Gaps / What We Didn’t Find
 
-- #### We found no FSSAI notifications or amendments after 2020 changing allergen labeling rules (no new gazette notifications).  
+- #### Found no FSSAI notifications or amendments after 2020 changing allergen labeling rules (no new gazette notifications).  
 - #### Delhi HC 2021 case resulted in instructions but no formal regulation change.  
-- #### We found no further threshold rules beyond what Reg 5(14) states. (For example, no additional “may contain” mandates or new allergen lists beyond the eight listed.)
+- #### Found no further threshold rules beyond what Reg 5(14) states. (For example, no additional “may contain” mandates or new allergen lists beyond the eight listed.)
 
 ---
 
