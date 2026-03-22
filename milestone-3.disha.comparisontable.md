@@ -38,5 +38,5 @@
 
 | Allergen | Jurisdiction | Note |
 |----------|--------------|------|
-| Sulphites | FSSAI | Declaration required at ≥10 mg/kg |
+| Sulphite | FSSAI | Declaration required at ≥10 mg/kg |
 | Cereals containing gluten | FSSAI | Certain processed forms exempt if gluten ≤20 mg/kg |
