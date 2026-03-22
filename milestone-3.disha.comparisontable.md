@@ -1,3 +1,4 @@
+# Comparision Table – Milestone 3
 ### Table 1: FSSAI Allergen List
 **NOTE: Here one extra row added containing "spelt" in Cereals containing gluten.**
 | Allergen Category | Allergen | FSSAI |
